@@ -10,17 +10,27 @@ Hi there! I’m a passionate and detail-oriented Data Analyst and Power BI Devel
 I specialize in creating interactive dashboards, data visualizations, and analytical reports that help businesses make data-driven decisions. Whether it’s cleaning messy datasets, building dynamic Power BI dashboards, or uncovering hidden trends, I’m here to help you unlock the full potential of your data.
 
 What I Offer:
+
 ✔ Data Analysis & Insights: From exploratory data analysis to uncovering key trends, I help you understand what your data is telling you.
+
 ✔ Power BI Dashboards: I create visually appealing, interactive dashboards that make complex data easy to understand and act upon.
+
 ✔ Data Cleaning & Transformation: I ensure your data is accurate, consistent, and ready for analysis.
+
 ✔ Excel Solutions: From pivot tables to custom formulas, I can handle all your Excel needs.
+
 ✔ Data Storytelling: I turn data into compelling stories that drive decision-making and business growth.
 
 Tools & Technologies I Use:
+
 ➤ Power BI (Power Query, DAX, Data Modeling)
+
 ➤ Excel (PivotTables, Charts, Formulas)
+
 ➤ SQL (Data Querying and Manipulation)
+
 ➤ Python (Pandas, NumPy for Data Analysis)
+
 
 Why Work With Me?
 
@@ -31,6 +41,7 @@ Client-Focused: I work closely with you to understand your goals and deliver sol
 Quick Learner: As a student, I’m constantly learning and adapting to new challenges, ensuring I bring fresh ideas to every project.
 
 Let’s Grow Together!
+
 By hiring me, you’re not just getting a freelancer—you’re investing in my education and growth as a data professional. Your support helps me continue learning and improving, allowing me to deliver even better results for you in the future.
 
 Ready to turn your data into actionable insights? Let’s work together to drive your business forward!
